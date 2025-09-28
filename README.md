@@ -63,3 +63,34 @@ I blend analytical thinking with creativity, bringing innovative and user-centri
 </table>
 
 ---
+---
+## 🚀 Proyectos Destacados
+
+Esta es una selección de mis proyectos más relevantes que demuestran mi capacidad para construir soluciones completas y funcionales.
+
+### 💎 StudioConnect – Reservas de estudios musicales (Proyecto Estrella)
+* **Descripción:** Plataforma dinámica para la gestión y reserva de estudios de grabación. Proyecto final Full-Stack.
+* **Funcionalidades:** Administración de usuarios y estudios, Calendario dinámico de reservas, Pagos integrados con **Stripe**.
+* **Tecnologías:** React, Next.js, PostgreSQL.
+* 🔗 [**Repositorio**](https://github.com/VickyGallo/proyecto-final-StudioConnect.git) | 🌐 [**Demo**](https://studioconnect-front.vercel.app/)
+
+### 🛒 DiavetVita – E-commerce de productos dietéticos
+* **Descripción:** E-commerce escalable para la venta de productos dietéticos con un enfoque en accesibilidad y experiencia de compra.
+* **Funcionalidades:** Carrito de compras, filtros de búsqueda avanzados, perfiles de usuario.
+* **Tecnologías:** React, TypeScript, Tailwind CSS.
+* 🔗 [**Repositorio**](https://github.com/VickyGallo/proyecto-ecommerce-diavetvita.git)
+
+### 🎵 The Music Box – Gestión de eventos musicales
+* **Descripción:** Sistema de gestión para eventos o reservas de locales y artistas.
+* **Tecnologías:** JavaScript, React, Node.js (indicar el stack principal).
+* 🔗 [**Repositorio**](https://github.com/VickyGallo/proyecto-turnos-themusicbox.git)
+
+---
+
+## 🖼️ Vistas de la app (StudioConnect)
+
+Aquí te muestro las vistas principales del proyecto **StudioConnect**.
+
+| Home | Búsqueda | Detalle de estudio | Mis reservas |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/studioconnect/studioconnect-home.png" alt="Vista Home" width="200"/> | <img src="./assets/studioconnect/studioconnect-search.png" alt="Vista Búsqueda" width="200"/> | <img src="./assets/studioconnect/studioconnect-studio-detail.png" alt="Vista Detalle" width="200"/> | <img src="./assets/studioconnect/studioconnect-my-bookings.png" alt="Vista Reservas" width="200"/> |
