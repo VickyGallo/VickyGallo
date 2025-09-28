@@ -94,3 +94,12 @@ Aquí te muestro las vistas principales del proyecto **StudioConnect**.
 | Home | Búsqueda | Detalle de estudio | Mis reservas |
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/studioconnect/studioconnect-home.png" alt="Vista Home" width="200"/> | <img src="./assets/studioconnect/studioconnect-search.png" alt="Vista Búsqueda" width="200"/> | <img src="./assets/studioconnect/studioconnect-studio-detail.png" alt="Vista Detalle" width="200"/> | <img src="./assets/studioconnect/studioconnect-my-bookings.png" alt="Vista Reservas" width="200"/> |
+
+---
+## 🖼️ Vistas Clave de la Aplicación
+
+Aquí te muestro las pantallas más importantes que reflejan la experiencia de usuario y las funcionalidades del e-commerce DiavetVita.
+
+| Home | Catálogo y Filtrado | Carrito de Compras | Perfil de Usuario |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/diavetvita/DiabetVita-home.PNG" alt="Vista Home de E-commerce" width="200"/> | <img src="./assets/diavetvita/DiavetVita-Formulario.PNG" alt="Vista Catálogo y Filtrado" width="200"/> | <img src="./assets/diavetvita/DiavetVita-carrito.PNG" alt="Vista Carrito de Compras" width="200"/> | <img src="./assets/diavetvita/DiabetVita-perfil.PNG" alt="Vista Perfil de Usuario" width="200"/> |
