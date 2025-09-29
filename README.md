@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Vicky Gallo</h1>
+  <h1>¡Hola! 👋 Soy Vicky Gallo :)</h1>
 </div>
 
 ---
