@@ -27,7 +27,7 @@ I blend analytical thinking with creativity, bringing innovative and user-centri
 <h2>📫 Contáctame</h2>
 <p>
 📧 **Email:** <a href="mailto:vickievike@hotmail.com">vickievike@hotmail.com</a><br>
-💼 **LinkedIn:** <a href="https://www.linkedin.com/in/victoriagallo">linkedin.com/in/victoriagallo</a><br>
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mariavictoriagallod">linkedin.com/in/mariavictoriagallod</a><br>
 🌐 **Portfolio (Coming Soon):** victoriagallo.dev
 </p>
 </td>
