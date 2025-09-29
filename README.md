@@ -100,6 +100,6 @@ Aquí te muestro las vistas principales del proyecto **StudioConnect**.
 
 Aquí te muestro las pantallas más importantes que reflejan la experiencia de usuario y las funcionalidades del e-commerce DiavetVita.
 
-| Home | Catálogo y Filtrado | Carrito de Compras | Perfil de Usuario |
+| Home | Registro | Carrito de Compras | Perfil de Usuario |
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/diavetvita/DiabetVita-home.PNG" alt="Vista Home de E-commerce" width="200"/> | <img src="./assets/diavetvita/DiavetVita-Formulario.PNG" alt="Vista Catálogo y Filtrado" width="200"/> | <img src="./assets/diavetvita/DiavetVita-carrito.PNG" alt="Vista Carrito de Compras" width="200"/> | <img src="./assets/diavetvita/DiabetVita-perfil.PNG" alt="Vista Perfil de Usuario" width="200"/> |
